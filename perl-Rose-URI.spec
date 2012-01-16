@@ -8,13 +8,13 @@
 Summary:	Rose::URI - A URI class that allows easy and efficient manipulation of URI components.
 #Summary(pl.UTF-8):	
 Name:		perl-Rose-URI
-Version:	0.50
+Version:	1.00
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Rose/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d6c7af702a5d8789b8e2a9ffdf739fba
+# Source0-md5:	ea5a41a557435b03ddbf6cf7ad03cb03
 URL:		http://search.cpan.org/dist/Rose-URI/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
