@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Rose
 %define	pnam	URI
 Summary:	Rose::URI - A URI class that allows easy and efficient manipulation of URI components.
